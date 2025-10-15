@@ -1,6 +1,6 @@
 import java.util.*;
 
-// ===== Base Class (Encapsulation + Abstraction) =====
+// =====Base Class (Encapsulation + Abstraction)=====
 abstract class Book {
     private String title;
     private String author;
