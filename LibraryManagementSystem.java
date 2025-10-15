@@ -63,7 +63,7 @@ class CardPayment implements Payment {
     }
 }
 
-// ===== Library Management System (Main Logic) =====
+// =====Library Management System (Main Logic)=====
 public class LibraryManagementSystem {
     private Map<String, Book> books = new HashMap<>();
     private Scanner scanner = new Scanner(System.in);
