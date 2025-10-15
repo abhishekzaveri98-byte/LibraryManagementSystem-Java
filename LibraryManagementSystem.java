@@ -33,7 +33,7 @@ class EBook extends Book {
     }
 }
 
-// ===== Subclass: PrintedBook =====
+// =====Subclass: PrintedBook=====
 class PrintedBook extends Book {
     public PrintedBook(String title, String author, int copies) {
         super(title, author, copies);
