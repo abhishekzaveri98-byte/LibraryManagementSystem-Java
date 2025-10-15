@@ -21,7 +21,7 @@ abstract class Book {
     public abstract double calculateLateFee(int daysLate);
 }
 
-// ===== Subclass: EBook =====
+// =====Subclass: EBook=====
 class EBook extends Book {
     public EBook(String title, String author, int copies) {
         super(title, author, copies);
