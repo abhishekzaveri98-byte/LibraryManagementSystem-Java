@@ -45,7 +45,7 @@ class PrintedBook extends Book {
     }
 }
 
-// ===== SOLID: Payment Interface =====
+// =====SOLID: Payment Interface=====
 interface Payment {
     void pay(double amount);
 }
